@@ -175,5 +175,3 @@ npm run preview
 ## 支持
 
 开源不易，若觉得这个项目对你有用，可以点个[star](https://github.com/biubiubiu01/vue3-basic-admin)，欢迎提出建议和 bug :smile: 。如果这个项目对你有所帮助，可以给作者买杯咖啡，欢迎投喂，任意金额捐赠加好友问题咨询。
-
-<img src="https://i.328888.xyz/2023/02/28/zV27Q.jpeg" alt="alipay" width="250"><img src="https://i.328888.xyz/2023/02/28/zVw2H.jpeg" alt="wechat" width="250">
